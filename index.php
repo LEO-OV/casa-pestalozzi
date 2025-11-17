@@ -21,6 +21,7 @@
     <!-- Fuentes -->
     <link rel="preload" href="/assets/fonts/KudosKapsOneNF.otf" as="font" type="font/otf" crossorigin="anonymous" />
     <link rel="preload" href="/assets/fonts/Montserrat-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous" />
+
     <!-- Estilos -->
     <link rel="stylesheet" href="/assets/css/reset.css" />
     <link rel="stylesheet" href="/assets/css/styles.css" />
@@ -97,7 +98,7 @@
         <!-- Carousel -->
         <section class="carousel box-shadow">
             <div class="carousel__btn">
-                <a class="btn" href="/assets/docs/menu.pdf" target="_blank" rel="noopener noreferrer">
+                <a class="btn" href="/menu" target="_blank" rel="noopener noreferrer">
                     Conoce nuestro menú
                     <svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true"
                         xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -291,6 +292,7 @@
 
     <!-- FOOTER -->
     <?php include 'includes/footer.php' ?>
+
 
     <script>
         document.getElementById('year').textContent = new Date().getFullYear();

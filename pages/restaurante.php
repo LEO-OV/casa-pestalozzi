@@ -65,7 +65,7 @@
                     personalizado.
                 </p>
                 <div class="menu__enlaces">
-                    <a class="btn" href="/assets/docs/menu.pdf" target="_blank" rel="noopener noreferrer">Ver menú</a>
+                    <a class="btn" href="/menu" target="_blank" rel="noopener noreferrer">Ver menú</a>
                 </div>
             </div>
             <div class="menu__img">

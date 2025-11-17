@@ -3,7 +3,7 @@
 <header id="header" class="header">
     <div class="contenedor header__contenedor">
         <div class="header__brand">
-            <a href="/index.php" class="header__logo" title="Inicio - Casa Pestalozzi">
+            <a href="/" class="header__logo" title="Inicio - Casa Pestalozzi">
                 <img src="/assets/images/logo.svg" alt="Logo Casa Pestalozzi" />
             </a>
         </div>
