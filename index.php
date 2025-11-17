@@ -15,7 +15,7 @@
     <link rel="icon" href="/assets/images/logo.ico" type="image/x-icon" />
 
     <!-- Preload imágenes -->
-    <link rel="preload" as="image" href="/assets/images/banner-sm.jpg" type="image/webp" media="(max-width: 768px)" />
+    <link rel="preload" as="image" href="/assets/images/banner-sm.webp" type="image/webp" media="(max-width: 768px)" />
     <link rel="preload" as="image" href="/assets/images/banner.webp" type="image/webp" media="(min-width: 769px)" />
 
     <!-- Fuentes -->

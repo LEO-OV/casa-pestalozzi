@@ -29,7 +29,7 @@ h3 {
 }
 .hero__bg {
   height: 100%;
-  background-image: url(/assets/images/banner-sm.jpg);
+  background-image: url(/assets/images/banner-sm.webp);
   background-position: top;
 }
 @media (min-width: 768px) {
