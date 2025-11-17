@@ -280,7 +280,7 @@
             </div>
 
             <div class="mapa__contacto box-shadow">
-                <div id="mapa" style="width:100%; height:450px; background:#f2f2f2"></div>
+                <div id="mapa" style="width:100%; max-height:350px; background:#f2f2f2"></div>
             </div>
         </section>
     </main>
