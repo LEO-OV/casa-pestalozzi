@@ -23,9 +23,9 @@
     <link rel="preload" href="/assets/fonts/Montserrat-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
 
     <!-- Estilos -->
-    <link rel="stylesheet" href="/assets/css/reset.css">
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <link rel="stylesheet" href="/assets/css/panaderia.css">
+    <link rel="stylesheet" href="/assets/css/reset.css?v=2">
+    <link rel="stylesheet" href="/assets/css/styles.css?v=2">
+    <link rel="stylesheet" href="/assets/css/panaderia.css?v=2">
 </head>
 
 
