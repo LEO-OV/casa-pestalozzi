@@ -280,12 +280,7 @@
             </div>
 
             <div class="mapa__contacto box-shadow">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.8064060515617!2d-99.1617558!3d19.3775335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff8b91dea5e9%3A0x30b571a160d3835a!2sCasa%20Pestalozzi%20Del%20Valle!5e0!3m2!1ses-419!2smx!4v1741916233407!5m2!1ses-419!2smx"
-                    width="600" height="450" style="border: 0" allowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade"
-                    title="Mapa de ubicación de Casa Pestalozzi Del Valle, Ciudad de México">
-                </iframe>
+                <div id="mapa" style="width:100%; height:450px; background:#f2f2f2"></div>
             </div>
         </section>
     </main>
@@ -297,8 +292,8 @@
     <script>
         document.getElementById('year').textContent = new Date().getFullYear();
     </script>
-    <script src="/assets/js/navbar.js"></script>
-    <script src="/assets/js/home.js"></script>
+    <script src="/assets/js/navbar.js" defer></script>
+    <script src="/assets/js/home.js" defer></script>
 </body>
 
 </html>

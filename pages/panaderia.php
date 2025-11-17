@@ -183,9 +183,9 @@
     <script>
         document.getElementById('year').textContent = new Date().getFullYear();
     </script>
-    <script src="/assets/js/navbar.js"></script>
-    <script src="/assets/js/navbarBehavior.js"></script>
-    <script src="/assets/js/panaderia.js"></script>
+    <script src="/assets/js/navbar.js" defer></script>
+    <script src="/assets/js/navbarBehavior.js" defer></script>
+    <script src="/assets/js/panaderia.js" defer></script>
 </body>
 
 </html>
